@@ -1,3 +1,6 @@
+print("Name: Anshikaa A Singh")
+print("USN: 1AY24AI011")
+print("Section: M")
 import random
 
 number_to_guess = random.randint(1, 100)
