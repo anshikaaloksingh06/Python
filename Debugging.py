@@ -1,4 +1,4 @@
-print('Name: Shyamili Shibu \nUSN: 1AY24AI105 \nSection: O\n ')
+print('Name: Anshikaa A Singh \nUSN: 1AY24AI011 \nSection: M\n ')
 
 import random
 
